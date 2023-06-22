@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Igor Kondratev
-- 👀 I’m interested in GameDev(Unity C#), Mobile Dev(iOS Swift, Android Java)
+- 👀 I’m interested in GameDev(Unity C#), Mobile Dev(iOS Swift, Android Java/Kotlin)
 - 📫 How to reach me: [@vansoulishere](https://t.me/vansoulishere)
